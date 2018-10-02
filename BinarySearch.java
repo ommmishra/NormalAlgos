@@ -1,7 +1,7 @@
 
 class BinarySearch {
 
-    public static int findBybinarySearch(int[] arr, int n, int key){
+    public static int findByBinarySearch(int[] arr, int n, int key){
         int lowerBound = 0;
         int upperBound = n-1;
         while (true) {
