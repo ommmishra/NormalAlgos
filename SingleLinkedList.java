@@ -16,11 +16,9 @@ class SingleLinkedList {
 
     private Link first;
     private Link last;
-    private int n;
     public SingleLinkedList(){
         this.first = null;
         this.last = null;
-        this.n = 0;
     }
 
     public Boolean isEmpty(){
