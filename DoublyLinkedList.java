@@ -99,7 +99,9 @@ class DoublyLinkedList {
             DoublyLinkedList List = new DoublyLinkedList();
 
 
-            List.insertLast(367); List.insertLast(33); List.insertLast(37);
+            List.insertLast(367); 
+            List.insertLast(33); 
+            List.insertLast(37);
 
 
             List.displayBackward();
